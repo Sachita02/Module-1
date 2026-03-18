@@ -22,7 +22,7 @@ I am a string literal<br /r>
 print(a)<br /r>
 ```
 ## OUTPUT
-![image]("C:\Users\SACHITA\Downloads\mod 1.png")
+"C:\Users\SACHITA\Downloads\mod 1.png"
 
 
 ## RESULT
