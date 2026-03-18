@@ -22,7 +22,8 @@ I am a string literal<br /r>
 print(a)<br /r>
 ```
 ## OUTPUT
-["C:\Users\SACHITA\Downloads\mod 1.png"](url)
+<img width="945" height="395" alt="mod 1" src="https://github.com/user-attachments/assets/0bc58e40-b988-45ef-8b25-117876c9f787" />
+
 
 
 ## RESULT
